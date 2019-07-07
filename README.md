@@ -1,4 +1,4 @@
-# NitoriColourBox-TVStand
+# NitoriBox-TVStand
 ニトリのカラーボックスをテレビ台として使う
 
 ## 仕様
